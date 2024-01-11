@@ -1,0 +1,38 @@
+[
+   {
+    "titolo":"motivation 4 the streetz",
+    "artista": "Artie 5ive",
+    "anno": "2023",
+    "album": "https://res.cloudinary.com/vivaticket/image/fetch/q_auto:eco/https://backendcdn.vivaticket.it/img_eventi_new/rondo390_65799fc3e909c.jpg"
+   },
+   {
+    "titolo":"think later",
+    "artista": "Tate McRae",
+    "anno": "2023",
+    "album": "https://mmo.aiircdn.com/301/654900ffd6f33.jpg"
+   },
+   {
+    "titolo":"Intimate-Recordings",
+    "artista": "Elisa",
+    "anno": "2023",
+    "album": "https://m.media-amazon.com/images/I/71IrwdsnzjL._UF894,1000_QL80_.jpg"
+   },
+   {
+    "titolo":"Italian Tabloid",
+    "artista": "Deepinto",
+    "anno": "2024",
+    "album": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5b/d6/a7/5bd6a723-35e7-1633-1cbb-6451c32c029d/mza_5830143254589940810.jpeg/1200x1200bb.jpg"
+   },
+   {
+    "titolo":"Un passo al giorno",
+    "artista": "Stefania Brucini",
+    "anno": "2024",
+    "album": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a2/88/f9/a288f92b-72c9-1f01-cf0b-5047973a6857/mza_2941497559863338839.jpg/1200x1200bb.jpg"
+   },
+   {
+    "titolo":"Tyranny",
+    "artista": "Will Media Antonio Losito",
+    "anno": "2024",
+    "album": "https://i.scdn.co/image/ab6765630000ba8a123158c36a341ee472ac81a7"
+   }
+]

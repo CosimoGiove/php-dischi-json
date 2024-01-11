@@ -4,14 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>phh dischi json</title>
+    <title>php dischi json</title>
     <!--foglio di stile-->
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
     <div id="app">
         <main>
+            <div v-for="lista in list" class="dischi">
+                <div class="img">
+                    <img :src="lista.album" alt="">
+                </div>
+                <div class="titolo">
+                    {{lista.titolo}}
+                </div>
+                
+                <div class="artista">
+                    {{lista.artista}}
+                </div>
+                <div class="anno">
+                    {{lista.anno}}
+                </div>
+            </div>
         </main>
     </div>
     <!--vue js cdn-->
